@@ -1,1 +1,2 @@
-<marquee>💻 Hola, soy Emerson Bolaños — Aprendiz en Análisis y Desarrollo de Software 💡</marquee>
+<marquee direction="right" scrollamount="8">🚀 Bienvenido a mi perfil de GitHub</marquee>
+
