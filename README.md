@@ -1,2 +1,1 @@
-<marquee direction="right" scrollamount="8">🚀 Bienvenido a mi perfil de GitHub</marquee>
-
+![Texto animado](https://ruta-del-gif.com/mi-texto.gif)
